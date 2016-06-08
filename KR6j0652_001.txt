@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:08.054604
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 二十八藥叉大將名號
 #+PROPERTY: CBETA_ID X02n0184
 #+PROPERTY: ID KR6j0652
