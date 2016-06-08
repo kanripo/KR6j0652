@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:08.054604
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 二十八藥叉大將名號
 #+PROPERTY: CBETA_ID X02n0184
 #+PROPERTY: ID KR6j0652
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 02, No. 184
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0652_X_001-0840b> 
 #+PROPERTY: JUAN 1
-No.184¶
-
- 二十八藥叉大將名號¶
+No. 184¶
+二十八藥叉大將名號¶
 不空譯抄之¶
 
 東方四藥叉名¶
